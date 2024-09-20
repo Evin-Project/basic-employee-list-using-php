@@ -1,0 +1,32 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    background-color: #fff;
+    padding: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+h2 {
+    margin-bottom: 30px;
+    color: #343a40;
+    font-size: 1.75rem;
+}
+
+.alert {
+    margin-top: 20px;
+    font-size: 1rem;
+    padding: 15px;
+}
+
+.btn-primary, .btn-secondary {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+}
